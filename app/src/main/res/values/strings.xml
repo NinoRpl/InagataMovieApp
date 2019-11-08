@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">INAGATA MOVIES</string>
+    //String resources for menu items
+    <string name="setting_Popular">Most Popular</string>
+    <string name="setting_highestRated">Highest Rated</string>
+
+</resources>
